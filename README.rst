@@ -4,7 +4,8 @@ About
 
 This is a snaphost of sqlite 3.8.8.3 from http://sqlite.org together with cmake
 build script.
-Added text in branch
+Added text in branch.
+Another text
 
 Build on Linux
 ==============
